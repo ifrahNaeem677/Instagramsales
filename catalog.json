@@ -1,0 +1,70 @@
+{
+  "store_name": "Your Store Name",
+  "currency": "USD",
+  "delivery": "Delivery in 3-5 working days. Free delivery on orders over 100. Otherwise a flat fee of 5.",
+  "payment": "Cash on delivery or bank transfer. Bank details are shared by our team after the order is confirmed.",
+  "returns": "Exchange within 7 days if the item is unused and in its original packaging. Customer pays return shipping unless the item is faulty.",
+  "contact_hours": "Our team is available 10am-8pm, Monday to Saturday.",
+  "products": [
+    {
+      "sku": "BAG-001",
+      "name": "Classic Quilted Shoulder Bag",
+      "category": "bags",
+      "price": 45,
+      "colors": ["black", "beige", "white"],
+      "sizes": ["one size"],
+      "in_stock": true,
+      "description": "Our own design. Quilted vegan leather, gold-tone chain strap, fits phone, wallet and keys."
+    },
+    {
+      "sku": "BAG-002",
+      "name": "Everyday Tote",
+      "category": "bags",
+      "price": 38,
+      "colors": ["tan", "black"],
+      "sizes": ["one size"],
+      "in_stock": true,
+      "description": "Large structured tote with inner zip pocket. Fits a 14-inch laptop."
+    },
+    {
+      "sku": "SHO-001",
+      "name": "Leather Loafers",
+      "category": "shoes",
+      "price": 55,
+      "colors": ["black", "brown"],
+      "sizes": ["40", "41", "42", "43", "44"],
+      "in_stock": true,
+      "description": "Genuine leather upper, cushioned insole, rubber sole."
+    },
+    {
+      "sku": "SHO-002",
+      "name": "Minimal White Sneakers",
+      "category": "shoes",
+      "price": 42,
+      "colors": ["white"],
+      "sizes": ["37", "38", "39", "40", "41", "42", "43"],
+      "in_stock": true,
+      "description": "Clean low-top sneakers, unisex sizing."
+    },
+    {
+      "sku": "SHI-001",
+      "name": "Oxford Cotton Shirt",
+      "category": "shirts",
+      "price": 25,
+      "colors": ["white", "light blue", "black"],
+      "sizes": ["S", "M", "L", "XL"],
+      "in_stock": true,
+      "description": "100% cotton, regular fit, button-down collar."
+    },
+    {
+      "sku": "WAT-001",
+      "name": "Steel Chronograph Watch",
+      "category": "watches",
+      "price": 70,
+      "colors": ["silver", "black"],
+      "sizes": ["42mm"],
+      "in_stock": true,
+      "description": "Stainless steel case, quartz movement, water resistant to 50m. 6-month warranty."
+    }
+  ]
+}
